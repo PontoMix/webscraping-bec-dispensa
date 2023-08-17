@@ -22,7 +22,8 @@ Este guia fornecerá instruções sobre como executar o WebScraping de Licitaç�
 
 9. Agora você pode realizar o processo de WebScraping dos dados desejados de licitações. Siga as instruções fornecidas pela ferramenta para selecionar os parâmetros, configurar as preferências e iniciar o scraping.
 
-10. Após concluir o scraping dos dados desejados, lembre-se de salvar ou exportar os resultados conforme as opções disponíveis na ferramenta.
+10. Após concluir o scraping dos dados desejados, lembre-se de ver os resultados em arquivos .xlsx nas pastas "Detalhes Produtos - Dispensa" e
+"Tabela OCs - Dispensa".
 
 Lembre-se de que este guia pressupõe que você tenha conhecimento básico sobre o uso de computadores e navegação de arquivos. Certifique-se de seguir as diretrizes e políticas de uso da ferramenta, bem como as regulamentações aplicáveis ao scraping de dados.
 
