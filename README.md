@@ -8,7 +8,7 @@ Este guia fornecerá instruções sobre como executar o WebScraping de Licitaç�
 
 2. Selecione a opção "Download ZIP" para baixar o código-fonte do projeto como um arquivo compactado.
 
-3. Escolha a pasta de destino como "C://" (por exemplo, C://Downloads) para salvar o arquivo ZIP.
+3. Escolha a pasta de destino como "C://" para salvar o arquivo ZIP.
 
 4. Após o download, extraia o conteúdo do arquivo ZIP na pasta "C://". Isso criará uma nova pasta com o nome do repositório.
 
